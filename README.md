@@ -21,7 +21,7 @@ Welcome to my GitHub portfolio! I specialize in **Python Scripts Development** w
 <img src="src/PostgresSQL.svg" width="50" height="40"> <img src="src/SQLite.svg" width="50" height="40">
 </div>
 
-### 🚀 Deployment & Cloud Services
+### 🚀 Deployment Services
 
 <div align="center">
 <img src="src/docker.svg" width="50" height="40"> <img src="src/streamlit.svg" width="50" height="40">
